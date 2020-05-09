@@ -53,3 +53,26 @@
 - スキルチェック入門の動画が一通り終わったらスキルチェック問題集にとりかかる
 
 - スキルチェック問題集を中心にスキルチェックは一日 1 問解いてく
+
+# 5/9
+
+| 日付 | 動画の名前                                  | URL                                                                                    | 関連問題 | URL |
+| ---- | ------------------------------------------- | -------------------------------------------------------------------------------------- | -------- | --- |
+| 5/9  | 演算子で計算                                | https://paiza.jp/works/js/primer/beginner-js1/12006                                    |          |     |
+| 5/9  | 値段を計算してみよう                        | https://paiza.jp/works/js/primer/beginner-js1/12007                                    |          |     |
+| 5/9  | データの型                                  | https://paiza.jp/works/js/primer/beginner-js1/12008                                    |          |     |
+| 5/9  | HTML を表示してみよう                       | https://paiza.jp/works/js/primer/beginner-js1/12009                                    |          |     |
+| 5/9  | 数値が一致した場合、メッセージを表示        | https://paiza.jp/works/js/primer/beginner-js1/12010                                    |          |     |
+| 5/9  | 複数の条件を組み合わせてみよう              | https://paiza.jp/works/js/primer/beginner-js1/12011                                    |          |     |
+| 5/9  | データの入力方法を理解しよう                | https://paiza.jp/works/js/primer/beginner-js3/8104                                     |          |     |
+| 5/9  | 標準入力で複数行のデータを受け取ってみよう  | https://paiza.jp/works/js/primer/beginner-js3/8106                                     |          |     |
+| 5/9  | 標準入力で一行のデータを受け取ってみよう    | https://paiza.jp/works/js/primer/beginner-js3/8105                                     |          |     |
+| ---- | ------------------------------------------  | --------------------------------------------------                                     | -------- |     |
+| 5/ 9 | スキルチェック練習問題                      | https://paiza.jp/works/mondai/skillcheck_sample/multiplication?language_uid=javascript |          |     |
+| 5/ 9 | スキルチェック D012 絶対値を求めよ Math.abs | https://paiza.jp/works/challenges/64/retry                                             |          |     |
+
+## やったこと 感想 その他
+
+- 動画学習の後スキルチェック問題をやりました。
+
+- D012 の問題のメソッドは使い方がわかりやすくて問題を解くことができましたが、ほかの問題はまだ実力不足みたいです
