@@ -11,14 +11,12 @@
 
 - コメントタグが`{/*コメント*/}`
 
-- classを使っていてrenderメソッドというものを使っていること
+- class を使っていて render メソッドというものを使っていること
 
--  `return()`の中に入力すること、中身は複数の要素があるとエラー`<div></div>`で囲んで要素をまとめる
+- `return()`の中に入力すること、中身は複数の要素があるとエラー`<div></div>`で囲んで要素をまとめる
 
-- `<img src =''/>`のようにimgタグなども最後に/をつける
+- `<img src =''/>`のように img タグなども最後に/をつける
 
-- `return()`の外にJavascriptを記入できるreturn内で使うには`{定数名}`で使用する
+- `return()`の外に Javascript を記入できる return 内で使うには`{定数名}`で使用する
 
-- App.jsの書き方を覚える 
-
-   `import React from 'react';`<br>`class App extends React.Component {`<br>`render(){`<br>`return();`<br>`}}`<br>`export default App;`
+- App.js の書き方を覚える<br>`import React from 'react';`<br>`class App extends React.Component {`<br>`render(){`<br>`return();`<br>`}}`<br>`export default App;`
