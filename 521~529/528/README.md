@@ -21,4 +21,4 @@
 
 - App.jsの書き方を覚える 
 
-- `import React from 'react';`<br>`class App extends React.Component{`<br>`render(){`<br>`return();`<br>`}}`<br>`export default App;`
+   `import React from 'react';`<br>`class App extends React.Component {`<br>`render(){`<br>`return();`<br>`}}`<br>`export default App;`
