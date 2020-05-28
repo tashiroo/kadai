@@ -9,18 +9,16 @@
 
 ## 気づいたこと 学んだこと
 
-- ReactのJSXはhtmlと書き方がほとんどおんなじ
-
-- コメントタグが`{/*コメント*/}`で Ctrl+/が使えないこと
+- コメントタグが`{/*コメント*/}`
 
 - classを使っていてrenderメソッドというものを使っていること
 
--  `return()`の中に入力すること、中身は複数の要素が持てないので`<div></div>`で要素を囲んで入力する
+-  `return()`の中に入力すること、中身は複数の要素があるとエラー`<div></div>`で囲んで要素をまとめる
 
-- `<img src ='url'/>`のようにimgタグなども最後に/をつける
+- `<img src =''/>`のようにimgタグなども最後に/をつける
 
 - `return()`の外にJavascriptを記入できるreturn内で使うには`{定数名}`で使用する
 
 - App.jsの書き方を覚える 
 
-- `import React form 'react';`<br>`class App extends react.Component{`<br>`render(){`<br>`return(`<br>`);`<br>`}}`<br>`export default App;`
+- `import React from 'react';`<br>`class App extends React.Component{`<br>`render(){`<br>`return();`<br>`}}`<br>`export default App;`
