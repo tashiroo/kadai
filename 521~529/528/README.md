@@ -9,14 +9,14 @@
 
 ## 気づいたこと 学んだこと
 
-- コメントタグが`{/*コメント*/}`でcommand+/を使う
+- コメントタグが`{/*コメント*/}`で command+/を使う
 
 - class を使っていて render メソッドというものを使っていること
 
-- `return()`の中に入力すること、中身は複数の要素があるとエラー`<div></div>`で囲んで要素をまとめる、<React.Fragment>を使って複数の要素を記入することができる
+- `return()`の中に入力すること、中身は複数の要素があるとエラー`<div></div>`で囲んで要素をまとめる、または<React.Fragment>を使って複数の要素を記入することができる
 
 - こどもがないとき`<img></img>`を省略して`<img />`にします
 
 - `return()`の外に Javascript を記入できる return 内で使うには`{定数名}`で使用する
 
-- App.js の書き方を覚える<br>`import React from 'react';`<br>`class App extends React.Component {`<br>`render(){`<br>`return();`<br>`}}`<br>`export default App;`
+- App.js の書き方を覚える`import React from 'react';class App extends React.Component {render(){return();}}export default App;`
