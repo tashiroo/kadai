@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+  <div id = "color">文字色の変更</div>
+
+  <form>
+    <input type = "button" value = "緑" onclick="chenge()"></imput>
+  </form>
+
+  <ul id =lists>
+    <li>人参</li>
+    <li>玉ねぎ</li>
+    <li>ポーク</li>
+    <li>ジャガイモ</li>
+  </ul>
+  
+
+  <script type="text/javascript">
+ 
+ function chenge () 
+ {
+   if(document.getElementById){
+     document.getElementById("color").style.color = "green";
+     document.getElementById("color").style.fontSize = "30px"; 
+   }
+ }
+ const lists = document.getElementById('lists');
+const li = document.createElement('li');
+li.appendChild(document.createTextNode('カレールー'));
+ lists.insertBefore(li, lists.firstElementChild);
+ 
+  </script>
+
+</body>
+</html>
