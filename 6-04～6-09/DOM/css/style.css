@@ -1,4 +1,11 @@
-.fice{
-  border-radius: 50%
-  ;
+li {
+  display: inline-block;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 100px;
+  margin: 16px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px black;
 }

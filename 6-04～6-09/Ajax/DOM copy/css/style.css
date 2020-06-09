@@ -1,0 +1,25 @@
+img {
+  border-radius: 50%;
+  height: 100px;
+  float: left;
+  margin: 15px 50px 15px 15px;
+}
+.profile-div{
+  border: 3px solid rgb(173, 168, 168);
+  border-radius: 10px;
+  width: 450px;
+  height: 500px;
+
+}
+  
+.profile {
+  margin-top: 15px;
+  line-height: 10px;
+  text-align: left;
+}
+
+.text {
+  margin-top: 50px;
+}
+
+
