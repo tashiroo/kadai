@@ -1,0 +1,16 @@
+.weatherCord{
+  display: block;
+  border-radius: 3%;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 3px 5px black;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 8px;
+}
+
+.time {
+  color: lightslategrey;
+}

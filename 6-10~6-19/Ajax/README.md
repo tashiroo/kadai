@@ -3,3 +3,5 @@ http://api.openweathermap.org/data/2.5/weather?q=tokyo&appid=2bea3d3ebe2c30f886c
 
 http://openweathermap.org/img/wn/"アイコンのコード(04nとか10d
 )"@2x.png
+
+"http://openweathermap.org/img/wn/"04n"@2x.png"
