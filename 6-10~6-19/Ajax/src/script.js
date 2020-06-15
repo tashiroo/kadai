@@ -13,7 +13,7 @@ fetch(
 });
 
 const kion = document.createElement("p");
-kion.innerText = JSON.stringify(sessi);
+kion.innerText = JSON[0];
 
 const weatherIcon = document.createElement("img");
 weatherIcon.src = "http://openweathermap.org/img/wn/04n@2x.png";
