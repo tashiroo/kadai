@@ -13,7 +13,7 @@ syutokujikan.innerText = "Mach 1st 1:00 pm"
 syutokujikan.classList.add("time");
 
 const weatherIcon = document.createElement("img");
-weatherIcon.src = "http://openweathermap.org/img/wn/04n@2x.png";
+weatherIcon.src = "http://openweathermap.org/img/wn/03n@2x.png";
 
 const weatherCord = document.createElement("span");
 weatherCord.appendChild(youbi);
